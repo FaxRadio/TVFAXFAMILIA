@@ -1,7 +1,12 @@
 # TVFAXFAMILIA
 TVFAXFAMILIA
+
 #EXTM3U
  
+#EXTINF:7,file.mp4
+#EXTVLCOPT:network-caching=1000
+https://video.wixstatic.com/video/c634a0_4d47eda7060e4d74b56db2fdd0e44ec9/1080p/mp4/file.mp4
+
 #EXTM3U url-tvg=" http://grade-de-Radio |  DEUS é Tudo.xml "
 ############## Radio  |  DEUS é Tudo ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeRadio |  DEUS é Tudo" group-title="         
@@ -2910,6 +2915,45 @@ https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m
 #EXTINF:1 tvg-logo="https://m.media-amazon.com/images/I/61qFB+qgWVL._AC_SX522_.jpg" group-title="FAX AUTISMO",Rain Man  Charlie (Tom Cruise), um jovem yuppie, fica sabendo que seu pai faleceu. Eles nunca se deram bem e não se viam há vários anos, mas ele vai ao enterro e, ao cuidar do testamento, descobre que herdou um Buick 1949 e algumas roseiras premiadas, enquanto um “beneficiário” tinha herdado três milhões de dólares. Curioso em saber quem herdou a fortuna, ele descobre que foi seu irmão Raymond (Dustin Hoffman), cuja existência ele desconhecia. Autista, Raymond é capaz de calcular problemas matemáticos com grande velocidade e precisão. Charlie sequestra o irmão da instituição onde ele está internado para levá-lo para Los Angeles e exigir metade do dinheiro, nem que para isto tenha que ir aos tribunais. É durante uma viagem cheia de pequenos imprevistos que os dois entenderão o significado de serem irmãos.
 https://sg.wptute.com/videoplayback/SjlzYS9FMHVJSCt6UWRabGpONFJZNDhDWXBhWk1NZTl5T3RyTGFDZ2JLczFpdFFRWnVkL3lQa1BXbDhaa09VSG9TK2FTSjMxazRwRHVpN0lLQ1BPakE9PQ,,/original/?token=a2hha2NwR3hGNTltbVYrMlltRGVBQi8xbUl4RDhQRWpJZHdSOXEzYzIxbjFVN1BLaTRvcmpkS2tpL0JRdXRwY3VsMzFxSGw5Qm0zdnp1RDR2b0VqS0E9PQ,,
 
+#EXTM3U url-tvg="http://grade-de-SÉRIES | EXCLUSIVAS",O Paciente.xml"
+############## SÉRIES | EXCLUSIVAS",O Paciente ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | EXCLUSIVAS",O Paciente" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E01
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E02
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E03
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E04
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E05
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E06
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E07
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E08
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E09
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E10
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287275.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | EXCLUSIVAS",Longe Demais.xml"
+############## SÉRIES | EXCLUSIVAS",Longe Demais ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | EXCLUSIVAS",Longe Demais" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Longe Demais S01 Longe Demais S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svGLFlbjDKx67CVUEFtPGooW25F.jpg" group-title="SÉRIES | EXCLUSIVAS",Longe Demais S01 Longe Demais S01E01
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Longe Demais S01 Longe Demais S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svGLFlbjDKx67CVUEFtPGooW25F.jpg" group-title="SÉRIES | EXCLUSIVAS",Longe Demais S01 Longe Demais S01E02
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Longe Demais S01 Longe Demais S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svGLFlbjDKx67CVUEFtPGooW25F.jpg" group-title="SÉRIES | EXCLUSIVAS",Longe Demais S01 Longe Demais S01E03
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Longe Demais S01 Longe Demais S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svGLFlbjDKx67CVUEFtPGooW25F.jpg" group-title="SÉRIES | EXCLUSIVAS",Longe Demais S01 Longe Demais S01E04
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Longe Demais S01 Longe Demais S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svGLFlbjDKx67CVUEFtPGooW25F.jpg" group-title="SÉRIES | EXCLUSIVAS",Longe Demais S01 Longe Demais S01E05
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287216.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filmes Jackie Chan.xml"
 ############## Filmes Jackie Chan ################# 
@@ -6169,9 +6213,9 @@ http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809610.mp4
 http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809611.mp4
 
 
-#EXTM3U url-tvg="http://grade-de-SÉRIES | AMAZON PRIME",NCIS Havaí.xml"
-############## SÉRIES | AMAZON PRIME",NCIS Havaí ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | AMAZON PRIME",NCIS Havaí" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES NCIS Havaí  | AMAZON PRIME.xml"
+############## SÉRIES NCIS Havaí | AMAZON PRIME ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES NCIS Havaí | AMAZON PRIME" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="NCIS Havaí: Investigações Criminais S01 NCIS Havaí: Investigações Criminais - S01E01 - Piloto" tvg-logo="https://image.tmdb.org/t/p/w300/t5PQou5TwH3sqjgpfNZqaIxqFHp.jpg" group-title="SÉRIES | AMAZON PRIME",NCIS Havaí: Investigações Criminais S01 NCIS Havaí: Investigações Criminais - S01E01 - Piloto
 http://conexaoonline.top:80/series/0818687333/key6g0KZ980/312317.mp4
@@ -6218,9 +6262,9 @@ http://conexaoonline.top:80/series/0818687333/key6g0KZ980/312337.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NCIS Havaí: Investigações Criminais S02 NCIS Havaí: Investigações Criminais - S02E09 - Episódio 9" tvg-logo="https://image.tmdb.org/t/p/w300/gidHUvyvkAoQ906VckdjUrpdrFA.jpg" group-title="SÉRIES | AMAZON PRIME",NCIS Havaí: Investigações Criminais S02 NCIS Havaí: Investigações Criminais - S02E09 - Episódio 9
 http://conexaoonline.top:80/series/0818687333/key6g0KZ980/312338.mp4
 
-#EXTM3U url-tvg="http://grade-de-SÉRIES | AMAZON PRIME",NCIS: Los Angeles.xml"
-############## SÉRIES | AMAZON PRIME",NCIS: Los Angeles ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | AMAZON PRIME",NCIS: Los Angeles" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES NCIS: Los Angeles| AMAZON PRIME.xml"
+############## SÉRIES NCIS: Los Angeles | AMAZON PRIME", ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES NCIS: Los Angeles | AMAZON PRIME" group-title="
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 NCIS: Investigação Naval - S01E01 - Morte no Força Aérea Um" tvg-logo="https://image.tmdb.org/t/p/w300/1nQMJ5o9X3gSTXLtF6azUtXMQ3U.jpg" group-title="SÉRIES | AMAZON PRIME",NCIS: Investigação Naval S01 NCIS: Investigação Naval - S01E01 - Morte no Força Aérea Um
@@ -7424,6 +7468,143 @@ http://conexaoonline.top:80/series/0818687333/key6g0KZ980/312788.mp4
 http://conexaoonline.top:80/series/0818687333/key6g0KZ980/312789.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NCIS: Los Angeles S01 NCIS: Los Angeles - S01E24 - Episódio 24" tvg-logo="https://image.tmdb.org/t/p/w300/xq0tvH724oACfynXcRtKjz5EbJ5.jpg" group-title="SÉRIES | AMAZON PRIME",NCIS: Los Angeles S01 NCIS: Los Angeles - S01E24 - Episódio 24
 http://conexaoonline.top:80/series/0818687333/key6g0KZ980/312790.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | NETFLIX",The Witcher.xml"
+############## SÉRIES | NETFLIX",The Witcher ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | NETFLIX",The Witcher" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher: A Origem S01 The Witcher: A Origem S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg" group-title="SÉRIES | NETFLIX",The Witcher: A Origem S01 The Witcher: A Origem S01E01
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher: A Origem S01 The Witcher: A Origem S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg" group-title="SÉRIES | NETFLIX",The Witcher: A Origem S01 The Witcher: A Origem S01E02
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher: A Origem S01 The Witcher: A Origem S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg" group-title="SÉRIES | NETFLIX",The Witcher: A Origem S01 The Witcher: A Origem S01E03
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher: A Origem S01 The Witcher: A Origem S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg" group-title="SÉRIES | NETFLIX",The Witcher: A Origem S01 The Witcher: A Origem S01E04
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287897.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | APPLE+ SOS Cachorrinhos.xml"
+############## SÉRIES | APPLE+ SOS Cachorrinhos ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | APPLE+ SOS Cachorrinhos" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="SOS Cachorrinhos S02 SOS Cachorrinhos S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLOEMiJcC5MtCDOBUfh1nXARiw.jpg" group-title="SÉRIES | APPLE+",SOS Cachorrinhos S02 SOS Cachorrinhos S02E01
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOS Cachorrinhos S02 SOS Cachorrinhos S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLOEMiJcC5MtCDOBUfh1nXARiw.jpg" group-title="SÉRIES | APPLE+",SOS Cachorrinhos S02 SOS Cachorrinhos S02E02
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOS Cachorrinhos S02 SOS Cachorrinhos S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLOEMiJcC5MtCDOBUfh1nXARiw.jpg" group-title="SÉRIES | APPLE+",SOS Cachorrinhos S02 SOS Cachorrinhos S02E03
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOS Cachorrinhos S02 SOS Cachorrinhos S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLOEMiJcC5MtCDOBUfh1nXARiw.jpg" group-title="SÉRIES | APPLE+",SOS Cachorrinhos S02 SOS Cachorrinhos S02E04
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOS Cachorrinhos S02 SOS Cachorrinhos S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLOEMiJcC5MtCDOBUfh1nXARiw.jpg" group-title="SÉRIES | APPLE+",SOS Cachorrinhos S02 SOS Cachorrinhos S02E05
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOS Cachorrinhos S02 SOS Cachorrinhos S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLOEMiJcC5MtCDOBUfh1nXARiw.jpg" group-title="SÉRIES | APPLE+",SOS Cachorrinhos S02 SOS Cachorrinhos S02E06
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOS Cachorrinhos S02 SOS Cachorrinhos S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLOEMiJcC5MtCDOBUfh1nXARiw.jpg" group-title="SÉRIES | APPLE+",SOS Cachorrinhos S02 SOS Cachorrinhos S02E07
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOS Cachorrinhos S02 SOS Cachorrinhos S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLOEMiJcC5MtCDOBUfh1nXARiw.jpg" group-title="SÉRIES | APPLE+",SOS Cachorrinhos S02 SOS Cachorrinhos S02E08
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287786.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | KIDS",Sonic.xml"
+############## SÉRIES | KIDS",Sonic ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | KIDS",Sonic" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Prime S01 Sonic Prime S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg" group-title="SÉRIES | KIDS",Sonic Prime S01 Sonic Prime S01E01
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Prime S01 Sonic Prime S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg" group-title="SÉRIES | KIDS",Sonic Prime S01 Sonic Prime S01E02
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Prime S01 Sonic Prime S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg" group-title="SÉRIES | KIDS",Sonic Prime S01 Sonic Prime S01E03
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Prime S01 Sonic Prime S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg" group-title="SÉRIES | KIDS",Sonic Prime S01 Sonic Prime S01E04
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Prime S01 Sonic Prime S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg" group-title="SÉRIES | KIDS",Sonic Prime S01 Sonic Prime S01E05
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Prime S01 Sonic Prime S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg" group-title="SÉRIES | KIDS",Sonic Prime S01 Sonic Prime S01E06
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Prime S01 Sonic Prime S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg" group-title="SÉRIES | KIDS",Sonic Prime S01 Sonic Prime S01E07
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Prime S01 Sonic Prime S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg" group-title="SÉRIES | KIDS",Sonic Prime S01 Sonic Prime S01E08
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287778.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | KIDS",As Novas Aventuras de Gasparzinho.xml"
+############## SÉRIES | KIDS",As Novas Aventuras de Gasparzinho ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | KIDS",As Novas Aventuras de Gasparzinho" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E01
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E02
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E03
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E04
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E05
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E06
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E07
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E08
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E09
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E10
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E11
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E12
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E13
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E14
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E15
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E16
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E17
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E18
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E19
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E20
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E21
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E22
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E23
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E24
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E25
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E26
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285718.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | EXCLUSIVAS",Perícia.xml"
+############## SÉRIES | EXCLUSIVAS",Perícia ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | EXCLUSIVAS",Perícia" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab S01E01
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab S01E03
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab S01E04
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab S01E05
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab S01E06
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab S01E07
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/289115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab S01E07
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab - S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab - S01E08
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/308461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab - S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab - S01E09
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/308462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab - S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab - S01E10
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/308463.mp4
 
 #EXTM3U url-tvg=" http://grade-de-Camera.xml "
  ############## Camera ############## ### 
