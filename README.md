@@ -3,9 +3,9 @@
 #EXTVLCOPT:network-caching=1000
 https://video.wixstatic.com/video/c634a0_4d47eda7060e4d74b56db2fdd0e44ec9/1080p/mp4/file.mp4
 
-#EXTM3U url-tvg=" http://grade-de-Radio |  DEUS é Tudo.xml "
-############## Radio  |  DEUS é Tudo ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeRadio |  DEUS é Tudo" group-title="         
+
+############## Radio DEUS é Tudo ################# 
+      
 
 #EXTINF:-1 tvg-id="" tvg-name=" Radio DEUS éTudo"tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="Radio | DEUSéTudo",Radio DEUS éTudo",Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/pss6v1h6mfhvv
@@ -14,9 +14,9 @@ http://stream.zeno.fm/pss6v1h6mfhvv.m3u
 #EXTINF:-1 tvg-id="" tvg-name="  Radio DEUS éTudo"tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="Radio | DEUSéTudo",Radio DEUS éTudo",Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/pss6v1h6mfhvv.pls
 
-#EXTM3U url-tvg=" http://grade-de-RADIO |  FAX.xml "
-############## RADIO |  FAX ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeRADIO |  FAX" group-title="
+
+############## RADIO FAX ################# 
+
 
 #EXTINF:-1 tvg-id="" tvg-name=" RADIO  FAX "tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO |  FAX",RADIO  FAX Alex Silva Produtor 11 941386627
 https://stream-51.zeno.fm/hu70hmkcu68uv?zs=qeXXv7ntT4K1qU2BlXqAXg
@@ -29,9 +29,9 @@ http://stream.zeno.fm/hu70hmkcu68uv.m3u
 #EXTINF:-1 tvg-id="" tvg-name=" RADIO  FAX "tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO  | FAX",RADIO  FAX Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/hu70hmkcu68uv.pls
 
-#EXTM3U url-tvg="http://grade-de-FAX CANAIS |  ABERTOS.xml"
-############## FAX CANAIS | ABERTOS ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFAX CANAIS |  ABERTOS" group-title="
+
+############## FAX CANAIS ABERTOS ################# 
+
 
 #EXTINF:-1 tvg-id="BemTV.br SBT" tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="FAX CANAIS |  ABERTOS",Bem TV SBT (720p)
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
@@ -642,9 +642,8 @@ https://video01.kshost.com.br:4443/manoel2072/manoel2072/chunklist_w1732984734.m
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
 
-#EXTM3U url-tvg="http://grade-de-FAX |  Sports.xml"
-############## FAX  |  Sports ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFAX |  Sports" group-title="
+############## FAX Sports ################# 
+
 
 #EXTINF:-1 tvg-id=" TNT Sports 5 WEW Brasil  " tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="FAX |  Sports",TNT Sports 5 WEW Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
@@ -1083,9 +1082,11 @@ https://seig.tv/17/1/8a54e5468bcc1892800d5ceda6fad371/720p/720p.m3u8
 #EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg"group-title="Hulk: Defensora de Heróis",Hulk 9
 https://seig.tv/11/1/311a5c813f02553fa6c17907fbbe1654/720p/720p.m3u8
 
-#EXTM3U url-tvg="http://grade-de- Serie Que a Justiça Seja Feita.xml"
-############## Serie Que a Justiça Seja Feita ################# 
-#EXTINF:-1 tvg-id=" iddocanalde Serie Que a Justiça Seja Feita" group-title="
+
+
+#EXTM3U url-tvg="http://grade-de-Serie Que a Justiça Seja Feita.xml"
+############## Serie Que a Justiça Seja Feita  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSerie Que a Justiça Seja Feita" group-title="
 
 #EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/u8QCgeLMOnM9LLmwTZxMUIQLM8U.jpg"group-title="Serie Que a Justiça Seja Feita",Que a Justiça Seja Feita 1x1
 https://seig.tv/13/1/f3d5fd85585a53c120d4ab50ab84594d/720p/720p.m3u8
@@ -1100,9 +1101,11 @@ https://seig.tv/18/1/de00f099b145cacc2719514d16079013/720p/720p.m3u8
 #EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/u8QCgeLMOnM9LLmwTZxMUIQLM8U.jpg"group-title="Serie Que a Justiça Seja Feita",Que a Justiça Seja Feita 1x6
 https://seig.tv/13/1/ba00d20c612ffe9fa487d5c03b20e522/720p/720p.m3u8
 
-#EXTM3U url-tvg="http://grade-de- Serie A Origem .xml"
+
+
+#EXTM3U url-tvg="http://grade-de-Serie A Origem .xml"
 ############## Serie A Origem  ################# 
-#EXTINF:-1 tvg-id=" iddocanalde Serie A Origem " group-title="
+#EXTINF:-1 tvg-id=" iddocanaldeSerie A Origem " group-title="
 
 #EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg"group-title="Serie A Origem ",1x1 Sonetos, socos e sangue
 https://seig.tv/17/1/dfd1a524e058483582a1f91864640177/720p/720p.m3u8
@@ -1113,9 +1116,10 @@ https://seig.tv/14/1/8b9c655c76dfcc0048a53b0949be5575/720p/720p.m3u8
 #EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg"group-title="Serie A Origem ",1x4 Magos, maldade e massacre
 https://seig.tv/16/1/6f4c3d6294c32e79cc9897cedc9329dd/720p/720p.m3u8
 
-#EXTM3U url-tvg="http://grade-de- Carros na Estrada .xml"
-############## Serie Carros na Estrada  ################# 
-#EXTINF:-1 tvg-id=" iddocanalde Serie Carros na Estrada " group-title="
+
+#EXTM3U url-tvg="http://grade-de-Serie Carros na Estrada.xml"
+############## Serie Carros na Estrada ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSerie Carros na Estrada" group-title="
 
 #EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/a83R6vXXHnJnzaJpfwc4cHruKPk.jpg"group-title="Serie Carros na Estrada ",1x1 Dino Parque
 https://seig.tv/13/1/236bf0be5ce729c12e89d7b7a7eaa47b/720p/720p.m3u8
@@ -1136,9 +1140,11 @@ https://seig.tv/16/1/67b8e10e7e74bfd5e12925d7df24f57a/720p/720p.m3u8
 #EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/magIv71REHj30RQtw44EL6wHNb8.jpg"group-title="Serie Carros na Estrada ",1x9 Juntando os Trapos
 https://seig.tv/11/1/a7b6cae31a3ee9f83e2d874f2f7125be/720p/720p.m3u8
 
-#EXTM3U url-tvg="http://grade-de- Eden .xml"
-############## Serie Eden  ################# 
-#EXTINF:-1 tvg-id=" iddocanalde Serie Eden " group-title="
+
+
+#EXTM3U url-tvg="http://grade-de-Serie Eden.xml"
+############## Serie Eden ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSerie Eden" group-title="
 
 #EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/33a36hyLbCQ0OYaEW9pGWVOfSzP.jpg"group-title="Serie Carros na Estrada ",Eden 1x1 
 https://seig.tv/12/1/15e61fc63a1b5fcf203ad12acdcb064d/720p/720p.m3u8
@@ -1158,6 +1164,8 @@ https://seig.tv/14/1/10017bb49e2e44795e50ecf8240b5608/720p/720p.m3u8
 #EXTM3U url-tvg="http://grade-de-FAX 2023.xml"
 ############## FAX 2023 ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFAX 2023" group-title="
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Oscar 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Oscars_2023.png/200px-Oscars_2023.png" group-title="FAX 2023",Oscar 2023
 http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/309420.mp4
@@ -1250,9 +1258,9 @@ http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/299908.mp4
 
 
 
-#EXTM3U url-tvg="http://grade-de-FILMES | LANÇAMENTOS CINEMA.xml"
-############## FILMES | LANÇAMENTOS CINEMA ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | LANÇAMENTOS CINEMA" group-title="
+#EXTM3U url-tvg="http://grade-de-FILMES LANÇAMENTOS CINEMA.xml"
+############## FILMES  LANÇAMENTOS CINEMA ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES LANÇAMENTOS CINEMA" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Matilda: O Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5GR75CM0FbATtHjnAaE7WwUXkX.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Matilda: O Musical (2022)
 http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/288186.mp4
@@ -3146,9 +3154,9 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDTDxoR7QNbqDAq5KY6nY8GwZsttlpcb518LQsfVFEGPKO85cNfmUCvtS_xDsc2_6bkWE&usqp=CAU" group-title="plutotv",I Love Reality
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0fb8790-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9c8bf79-8759-4e47-a808-d6b5e45f63a8&userId=&serverSideAds=true
 
-#EXTM3U url-tvg="http://grade-de-FILMES | DRAMA.xml"
-############## FILMES | DRAMA ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | DRAMA" group-title="
+#EXTM3U url-tvg="http://grade-de-FILMES DRAMA.xml"
+############## FILMES DRAMA ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES DRAMA" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Hora de Recomeçar" tvg-logo="https://br.web.img2.acsta.net/pictures/19/03/18/22/15/0090467.jpg" group-title="FILMES | DRAMA",Hora de Recomeçar
 https://play.prod.gcp.vix.services/urban-country_pt/urban-country_pt_1-1/play_v1_hls_1080p.m3u8
@@ -3229,9 +3237,9 @@ http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/289472.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Querido Menino (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ut5sNIXsNb9tHnVJ090V13im4A8.jpg" group-title="FILMES | DRAMA",Querido Menino (2018)
 http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292781.mp4
 
-#EXTM3U url-tvg="http://grade-de-GOSPEL |filmes Tv e Clips.xml"
-############## GOSPEL |filmes Tv e Clips ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeGOSPEL |filmes Tv e Clips" group-title="
+#EXTM3U url-tvg="http://grade-de-GOSPEL filmes Tv e Clips.xml"
+############## GOSPEL filmes Tv e Clips ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeGOSPEL filmes Tv e Clips" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name=" topmixtv  " tvg-logo="http://www.topmixtv.com.br/wp-content/uploads/2023/01/topmixtvlogocapa2.png" group-title="GOSPEL |filmes Tv e Clips",topmixtv
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w32285497.m3u8
@@ -3320,9 +3328,9 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TV Universal | BR  " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" group-title="GOSPEL |filmes Tv e Clips",TV Universal | BR
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-FÈ | Ispirituais.xml "
-############## FÈ |Ispirituais ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFÈ | Ispirituais" group-title="
+#EXTM3U url-tvg=" http://grade-de-FÈ  Ispirituais.xml "
+############## FÈ Ispirituais ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFÈ  Ispirituais" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="  espera de um milagre  "tvg-logo="http://pa1.narvii.com/6961/6989150763c2577cf0749a02be6a326a920b6c56r1-245-160_00.gif" group-title="FÈ | Ispirituais",espera de um milagre
 https://www1446.ff-03.com/token=COI-HzLWguenXm5ozFLY-A/1679540818/168.227.0.0/79/d/8a/11318a316a280db9080e9372bbcce8ad-480p.mp4
@@ -3343,8 +3351,8 @@ https://play.prod.gcp.vix.services/beautifully-broken_pt/beautifully-broken_pt_1
 #EXTINF:-1 tvg-id="" tvg-name="  Em Busca de um Milagre  "tvg-logo="https://i.ytimg.com/vi/flPm14tMhoc/maxresdefault.jpg" group-title="FÈ | Ispirituais",Em Busca de um Milagre
 https://play.prod.gcp.vix.services/love-jessee_pt/love-jessee_pt_1-1/play_v1_hls_1080p.m3u8
 
-#EXTM3U url-tvg="http://grade-de-Esta Na | BIBLIA.xml"
-############## Esta Na | BIBLIA ################# 
+#EXTM3U url-tvg="http://grade-de-Esta Na  BIBLIA.xml"
+############## Esta Na  BIBLIA ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeEsta Na BIBLIA" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="  Jesus, o Cristo - Nascimento e infância - Dublado  " tvg-logo="https://www.catolicosnabiblia.com.br/imgpost/19-03-17_16-03-52-a-historia-fascinante-e-incrivel-de-cristo-jesus.jpg" group-title="Esta Na | BIBLIA",Jesus, o Cristo - Nascimento e infância - Dublado
@@ -3370,9 +3378,9 @@ https://proxy-004.ix7.dailymotion.com/sec(mY07IAeONRUUJhi-jD5Epact0cVCysJfvhn8bg
 #EXTINF:-1 tvg-id="" tvg-name="  O DESAFIO DE JACÓ FILME EVANGÉLICO COMPLETO (DUBLADO EM PORTUGUÊS) - GRANDES HERÓIS DA BÍBLIA  "tvg-logo="https://s1.dmcdn.net/v/IkJ-G1VYOhlWkwKJN/x720" group-title="Esta Na | BIBLIA",O DESAFIO DE JACÓ FILME EVANGÉLICO COMPLETO (DUBLADO EM PORTUGUÊS) - GRANDES HERÓIS DA BÍBLIA
 https://proxy-12.nyc.dailymotion.com/sec(9bLpr36Elc3rqsMpQ_biPpXyTOQwSafGlEZpWHUebqr55FsZvWXP14oVoEnCipNuj8vAxPyaHFfEpv08_mgrDsR1oUpVy4-p2z_gEP_kM1s)/video/023/031/314130320_mp4_h264_aac_1.m3u8#cell=nyc
 
-#EXTM3U url-tvg="http://grade-de-Radio | GOSPEL.xml"
-############## Radio | GOSPEL ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeRadio | GOSPEL" group-title="
+#EXTM3U url-tvg="http://grade-de-Radio  GOSPEL.xml"
+############## Radio  GOSPEL ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeRadio  GOSPEL" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name=" Nova Gospel FM   "  tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/7/67157.v16.png" group-title="Radio | GOSPEL",Nova Gospel FM
 https://svrstream1.svreua.com/stream.php?porta=8062/;
@@ -3393,9 +3401,9 @@ https://stream-51.zeno.fm/hu70hmkcu68uv?zs=BCNf7eQIQmKhA1cYDoHmQw
 #EXTINF:-1 tvg-id="" tvg-name="  Deus é Amor 91.9 FM  " tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/igreja-Deus-e-amor-ao-vivo.jpeg" group-title="Radio  | GOSPEL",Deus é Amor 91.9 FM
 https://24943.live.streamtheworld.com/SP_STUDIOC.mp3?DeuseamorFM
 
-#EXTM3U url-tvg=" http://grade-de-FAX |  CLIPS.xml "
- ############## FAX |  CLIPS ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeFAX  | CLIPS " group-title="       
+#EXTM3U url-tvg=" http://grade-de-FAX   CLIPS.xml "
+ ############## FAX   CLIPS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeFAX   CLIPS " group-title="       
 
 #EXTINF:-1 tvg-id="" tvg-name=" TNT   " tvg-logo="https://www.tnt.com/dam/tnt_express_media/en_gb/images/ChoosingTNT/TNT-Logo-edt.png" group-title="FAX  | CLIPS",TNT
 http://livetv.ktv.zone/3/play.m3u8
